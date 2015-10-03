@@ -2,7 +2,7 @@ public class LiczbaO {
         private int liczba;
         public LiczbaO(int liczba) {
                 this.liczba=liczba;
-        }
+        }//zbedny drugi komentarz
 
         public String liczbaBasedOn(int n) throws LiczbaException{ 
                 int liczba=this.liczba;        
