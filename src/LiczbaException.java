@@ -1,5 +1,5 @@
 public class LiczbaException extends Exception 
-{
+{//zbedny komentarz
         /**
          * 
          */
